@@ -3,9 +3,10 @@ csv2quickstatements
 
 Transform a (specific for now) CSV file into a bunch of Wikidata element statements that can be feed to http://tools.wmflabs.org/wikidata-todo/quick_statements.php 
 
-Licence
-=======
+### Licence
+
 Copyright © 2014 Ash-Crow <ash@ashtree.eu>
+
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar:
