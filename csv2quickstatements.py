@@ -48,7 +48,8 @@ def constructLine(theElement,sourceProperty="",sourceValue=""):
 			# qualifiers
 			theQualifiers=[]
 			if theProperty == "P528":
-				theQualifiers.append("P528")
+				# If catalog number, specify the catalog. TODO: make it more generic
+				theQualifiers.append("P972")
 				theQualifiers.append("Q17438869")
 
 
