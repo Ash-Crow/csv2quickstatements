@@ -3,6 +3,8 @@ csv2quickstatements
 
 Transform a (specific for now) CSV file into a bunch of Wikidata element statements that can be feed to http://tools.wmflabs.org/wikidata-todo/quick_statements.php 
 
+Archived project, moved to https://framagit.org/Ash_Crow/csv2quickstatements
+
 ### Licence
 
 Copyright © 2014 Ash-Crow <ash@ashtree.eu>
